@@ -1,3 +1,3 @@
 # catjumper
-Cat Jumper game made by Unity
+Cat Jumper game made by Unity. 
 This is my first game
